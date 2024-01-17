@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Weather</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="air_pressure">Air pressure</string>
+    <string name="temperature">%1$.2f°C</string>
+    <string name="location_rationale">We need your permission to use your location for getting your position</string>
+</resources>
