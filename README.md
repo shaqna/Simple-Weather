@@ -5,6 +5,7 @@
 - MVVM
 - Shimmer
 - EasyPermission
+- Maps Service
 
 # API Docs
 https://openweathermap.org/current
