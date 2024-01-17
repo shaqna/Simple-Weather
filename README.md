@@ -4,6 +4,7 @@
 - Dependency Injection Koin
 - MVVM
 - Shimmer
+- EasyPermission
 
 # API Docs
 https://openweathermap.org/current
