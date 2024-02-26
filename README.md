@@ -1,11 +1,23 @@
+# Simple Weather
+### Date created
+Jan, 2024
+
+### Desscription
+Weather app is android application that can show some information of weather arround user or based on user location.
+
 # Tech Stack
-- Kotlin
-- Android
-- Dependency Injection Koin
-- MVVM
-- Shimmer
-- EasyPermission
-- Maps Service
+- Programming language
+  - Kotlin
+- OS System
+  - Android
+- Dependency injection
+  - Koin
+- Design pattern
+  - MVVM
+- Permission library
+  - EasyPermission
+- Location service
+  - Google Maps Service
 
 # API Docs
 https://openweathermap.org/current
